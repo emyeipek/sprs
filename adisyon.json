@@ -1,15 +1,11 @@
 {
-  "name": "Sunset Adisyon",
-  "short_name": "Sunset",
-  "start_url": "/index.html",
+  "background_color": "#ffffff",
+  "dir": "ltr",
   "display": "standalone",
-  "background_color": "#0d0d0d",
-  "theme_color": "#f7c600",
-  "icons": [
-    {
-      "src": "https://via.placeholder.com/512",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ]
+  "name": "sunset sipariş",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "sipariş",
+  "start_url": "/https://emyeipek.github.io/sprs/",
+  "theme_color": "#ffffff"
 }
